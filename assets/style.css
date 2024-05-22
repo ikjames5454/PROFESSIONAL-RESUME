@@ -381,6 +381,11 @@ section{
    margin-left: 38%;
    border-radius: 10px;
 }
+.text-container{
+   background-color: azure;
+   padding: 20px;
+   border-radius: 20px;
+}
 
     
      
